@@ -14,7 +14,7 @@
       "name": "6, 5, 4, nothing",
       "setup": "javac SumInput.java",
       "run": "java SumInput",
-      "input": "6\r\n5\r\n4\r\n",
+      "input": "6\r\n5\r\n4\r\n\r\n",
       "output": "15",
       "comparison": "included",
       "timeout": 10,
