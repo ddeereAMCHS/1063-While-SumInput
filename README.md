@@ -6,11 +6,11 @@
 - Prompt the user for a number until the user enters the word "quit" or types nothing and hits "Enter"
 - Output the sum of all the numbers the user typed in
 
-Example Input:\
+***Example Input:***\
 1\
 4\
 7\
 2\
 quit\
-Example Output:\
+***Example Output:***\
 14
