@@ -13,4 +13,4 @@
 2\
 quit\
 ***Example Output:***\
-14
+The sum is 14
