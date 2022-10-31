@@ -5,8 +5,8 @@
       "setup": "javac SumInput.java",
       "run": "java SumInput",
       "input": "1\r\n4\r\n7\r\n2\r\nquit",
-      "output": "14",
-      "comparison": "included",
+      "output": "The sum is 14$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     },
@@ -15,8 +15,8 @@
       "setup": "javac SumInput.java",
       "run": "java SumInput",
       "input": "6\r\n5\r\n4\r\n\r\n",
-      "output": "15",
-      "comparison": "included",
+      "output": "The sum is 15$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     },
@@ -25,8 +25,8 @@
       "setup": "javac SumInput.java",
       "run": "java SumInput",
       "input": "7\r\n7\r\n7\r\nquit",
-      "output": "21",
-      "comparison": "included",
+      "output": "The sum is 21$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     }
