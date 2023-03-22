@@ -7,7 +7,7 @@
       "input": "1\r\n4\r\n7\r\n2\r\nquit",
       "output": "The sum is 14$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "6\r\n5\r\n4\r\n\r\n",
       "output": "The sum is 15$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "7\r\n7\r\n7\r\nquit",
       "output": "The sum is 21$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
