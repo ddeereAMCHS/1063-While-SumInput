@@ -1,6 +1,6 @@
 # Sum Input
 
-## Due: Tue 11/1 at 11:59 PM
+## Due: Tue 10/31 at 11:59 PM
 
 - Create a program called `SumInput.java`
 - Prompt the user for a number until the user enters the word "quit" or types nothing and hits "Enter"
